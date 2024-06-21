@@ -46,3 +46,18 @@ Make sure you have Node.js and npm (or yarn) installed on your machine.
 ```sh
 npm install --global yarn
 ```
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/money-tracker-app.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd dukaan
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
