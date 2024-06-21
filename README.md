@@ -32,6 +32,10 @@ Dukaan App UI is a modern and responsive user interface built using React and Ta
 - **Build Tool**: Vite (or Create React App, if applicable)
 - **Package Manager**: npm or yarn
 
+## Live Demo
+
+Check out the live demo of the Dukaan App [here](https://dukaan-ui.vercel.app/).
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
